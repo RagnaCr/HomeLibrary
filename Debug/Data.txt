@@ -1,0 +1,11 @@
+Amount: 10
+id: 1 John_Ronald_Reuel Tolkien The_Lord_of_the_Rings Fantasy 1 John Smith
+id: 2 Agatha Christie Murder_on_the_Orient_Express Mystery 0 - -
+id: 3 George Orwell Nineteen_Eighty-Four Dystopian 1 Ethan Johnson
+id: 4 Jane Austen Pride_and_Prejudice Romance 0 - -
+id: 5 Stephen King The_Shining Horror 1 Liam Williams
+id: 6 Jules Verne Twenty_Thousand_Leagues_Under_the_Sea Adventure 1 Emma Jones
+id: 7 Dan Brown The_Da_Vinci_Code Mystery 0 - -
+id: 8 Julia Child Mastering_the_Art_of_French_Cooking Cooking 1 Ava Taylor
+id: 9 Arthur C.Clarke 2001_A_Space_Odyssey Science_Fiction 1 Lucas Davis
+id: 10 Gabriel_Garcia Marquez One_Hundred_Years_of_Solitude Magic_Realism 1 Mason Wilson

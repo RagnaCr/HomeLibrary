@@ -1,0 +1,17 @@
+﻿  main.cpp
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\Header.h(46,2): warning C4091: typedef : пропускается слева от "Patient", когда ни одна переменная не объявлена
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\main.cpp(62,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\main.cpp(70,46): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\main.cpp(71,46): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  func.cpp
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\Header.h(46,2): warning C4091: typedef : пропускается слева от "Patient", когда ни одна переменная не объявлена
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\func.cpp(107,13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\func.cpp(107,13): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\func.cpp(107,13): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\func.cpp(107,13): message : этот аргумент используется в качестве размера буфера
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\func.cpp(108,13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\func.cpp(108,13): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\func.cpp(108,13): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+F:\ProjectsUnivers\ConsoleApplication1\ConsoleApplication1\func.cpp(108,13): message : этот аргумент используется в качестве размера буфера
+  Создание кода...
+  ConsoleApplication1.vcxproj -> F:\ProjectsUnivers\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
